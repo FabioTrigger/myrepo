@@ -1,0 +1,17 @@
+{
+	id: "cdd44252-cdaa-4068-ba61-b4820b09ad26"
+	type: "player"
+	player_name: "towzentinho"
+	ranks: {
+		cdd44252-cdaa-4068-ba61-b4820b09ad26: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "towzentinho"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "f430ba66-64f0-444c-918b-d2338d604081"
+	type: "player"
+	player_name: "Espinha1001"
+	ranks: {
+		f430ba66-64f0-444c-918b-d2338d604081: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Espinha1001"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

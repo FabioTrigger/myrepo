@@ -1,0 +1,17 @@
+{
+	id: "f1c8754e-bd83-4a40-8d17-f581ab3af68b"
+	type: "player"
+	player_name: "TMPuppet"
+	ranks: {
+		f1c8754e-bd83-4a40-8d17-f581ab3af68b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TMPuppet"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
